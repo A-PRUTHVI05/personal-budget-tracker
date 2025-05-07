@@ -1,0 +1,33 @@
+date,amount,category,description
+01-07-2025,1200,Income,Salary
+02-07-2025,54,Expense,Groceries
+03-07-2025,140,Expense,Utilities
+04-07-2025,250,Income,Freelance Work
+05-07-2025,76,Expense,Restaurant
+06-07-2025,160,Expense,Transport
+07-07-2025,540,Income,Bonus
+08-07-2025,33,Expense,Snacks
+09-07-2025,240,Income,Stock Dividends
+10-07-2025,95,Expense,Entertainment
+11-07-2025,66,Expense,Coffee
+12-07-2025,170,Expense,Gas
+13-07-2025,88,Expense,Books
+14-07-2025,160,Expense,Clothing
+15-07-2025,100,Income,Salary
+16-07-2025,70,Expense,Stationery
+17-07-2025,980,Expense,Utilities
+18-07-2025,350,Income,Freelance Work
+19-07-2025,60,Expense,Restaurant
+20-07-2025,830,Expense,Transport
+21-07-2025,900,Income,Bonus
+22-07-2025,45,Expense,Snacks
+23-07-2025,500,Income,Stock Dividends
+24-07-2025,600,Expense,Entertainment
+25-07-2025,75,Expense,Coffee
+26-07-2025,840,Expense,Gas
+27-07-2025,90,Expense,Books
+28-07-2025,370,Expense,Clothing
+29-07-2025,3200,Income,Salary
+30-07-2025,25,Expense,Stationery
+31-07-2025,590,Expense,Utilities
+20-07-2025,624.0,Expense,Groceries
